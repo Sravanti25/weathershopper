@@ -8,7 +8,7 @@ class CheckWeatherAndBuy:
 
     def setUp(self):
         self.driver = webdriver.Chrome()
-        self.driver.maximize_window()
+#        self.driver.maximize_window()
     
 #Navigate to weather Shopper page
 
